@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @am4ds
+- 👋 Hi, I’m @am4ds Abdulla Mohammad
 - 👀 I’m interested in Machine Learning and Data Science projects
 - 🌱 I’m currently learning Python, Machine Learning and Data Engineering
 - 💞️ I’m looking to collaborate on using AI models to improve software testing means and methods
